@@ -2,11 +2,11 @@
 
 No teste, está descrito e eu não sei se era pra fazer 2 apis, ou 1 com os 2 serviços.
 Na confusão, vai as duas.
-## 2 APIs diferentes:
-[1a API] (https://github.com/mtscarneiro/wineTest1/),
-[2a API] (https://github.com/mtscarneiro/wineTest2/)
+- 2 APIs diferentes:
+[1a API](https://github.com/mtscarneiro/wineTest1/),
+[2a API](https://github.com/mtscarneiro/wineTest2/)
 
-## 1 API com os 2 serviços:
+- 1 API com os 2 serviços:
 
 
 
