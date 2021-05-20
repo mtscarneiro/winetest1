@@ -1,4 +1,16 @@
-# Criação da Primeira API
+# Interpretei e buguei
+
+No teste, está descrito e eu não sei se era pra fazer 2 apis, ou 1 com os 2 serviços.
+Na confusão, vai as duas.
+## 2 APIs diferentes:
+[1a API] (https://github.com/mtscarneiro/wineTest1/),
+[2a API] (https://github.com/mtscarneiro/wineTest2/)
+
+## 1 API com os 2 serviços:
+
+
+
+### Criação da Primeira API
 
 Está criado a primeira parte do teste, onde já está setado dados das lojas físicas mockados assim como no exemplo dado: 
 
