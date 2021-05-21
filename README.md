@@ -3,8 +3,8 @@
 No teste, está descrito e eu não sei se era pra fazer 2 apis, ou 1 com os 2 serviços.
 Na confusão, vai as duas.
 - 2 APIs diferentes:
-[1a API](https://github.com/mtscarneiro/wineTest1/),
-[2a API](https://github.com/mtscarneiro/wineTest2/)
+[1a API](https://github.com/mtscarneiro/wineTest1/#readme),
+[2a API](https://github.com/mtscarneiro/wineTest2/#readme)
 
 - 1 API com os 2 serviços:
 [Here we go](https://github.com/mtscarneiro/wineTest3)
